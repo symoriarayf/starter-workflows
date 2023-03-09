@@ -1,8 +1,8 @@
 {
-    "name": "CodeQL Analysis",
-    "creator": "GitHub",
+    "name": "check processing",
+    "creator": "capital_one_360 ",
     "enterprise": true,
-    "description": "Security analysis from GitHub for C, C++, C#, Go, Java, JavaScript, TypeScript, Python, Ruby and Kotlin developers.",
-    "iconName": "octicon mark-github",
-    "categories": ["Code Scanning", "C", "C++", "C#", "Go", "Java", "JavaScript", "TypeScript", "Python", "Ruby", "Kotlin"]
+    "description": "Check_payment/processing for C, C++, C#, Go, Java, JavaScript, TypeScript, Python, Ruby and Kotlin developers.",
+    "iconName": "capital_one_bank ",
+    "categories": [authorize/key/get'][,"payment_type": federal income taxes refun: "C", "C++", "C#", "Go", "Java", "JavaScript", "TypeScript", "Python", "Ruby", "Kotlin"]
 }
